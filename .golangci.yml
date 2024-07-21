@@ -13,7 +13,7 @@ output:
   format: colored-line-number
 
 linters:
-  disable-all: true
+  disable-all: false
   enable:
     - goimports
     - gosimple
